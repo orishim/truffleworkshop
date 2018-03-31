@@ -5,6 +5,10 @@
 [Slides](https://docs.google.com/presentation/d/1jov8XanzWCtltdymPrjGrnXG5oIZBoBe4zvo9n-i_qk/edit#slide=id.g35f124439f_0_35)
 
 [Pet Shop Tutorial](http://truffleframework.com/tutorials/pet-shop)
++ in-depth tutorial for getting started, deploying to ganache, building a front-end, and interacting with contract using metamask
+
+[Webpack Tutorial](http://truffleframework.com/tutorials/building-testing-frontend-app-truffle-3)
++ quick tutorial for building a simple dapp 
 
 [Truffle Boxes](http://truffleframework.com/boxes/)
 + boilerplates with useful contracts and front-end frameworks to get started with
